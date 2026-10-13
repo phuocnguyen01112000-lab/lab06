@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Lab06VLE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98B7B1F8-4380-4924-AAEB-A625CC5B8D19}|Lab06VLE\\Lab06VLE.csproj|c:\\users\\hp\\desktop\\laptrinhwin\\lab06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B7B1F8-4380-4924-AAEB-A625CC5B8D19}|Lab06VLE\\Lab06VLE.csproj|c:\\users\\hp\\source\\repos\\lab06vle\\lab06vle\\nhaplieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98B7B1F8-4380-4924-AAEB-A625CC5B8D19}|Lab06VLE\\Lab06VLE.csproj|solutionrelative:lab06vle\\nhaplieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B7B1F8-4380-4924-AAEB-A625CC5B8D19}|Lab06VLE\\Lab06VLE.csproj|c:\\users\\hp\\source\\repos\\lab06vle\\lab06vle\\frmxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98B7B1F8-4380-4924-AAEB-A625CC5B8D19}|Lab06VLE\\Lab06VLE.csproj|solutionrelative:lab06vle\\frmxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B7B1F8-4380-4924-AAEB-A625CC5B8D19}|Lab06VLE\\Lab06VLE.csproj|c:\\users\\hp\\source\\repos\\lab06vle\\lab06vle\\nhaplieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B7B1F8-4380-4924-AAEB-A625CC5B8D19}|Lab06VLE\\Lab06VLE.csproj|solutionrelative:lab06vle\\nhaplieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B7B1F8-4380-4924-AAEB-A625CC5B8D19}|Lab06VLE\\Lab06VLE.csproj|c:\\users\\hp\\source\\repos\\lab06vle\\lab06vle\\frmxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B7B1F8-4380-4924-AAEB-A625CC5B8D19}|Lab06VLE\\Lab06VLE.csproj|solutionrelative:lab06vle\\frmxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\laptrinhwin\\lab06\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\laptrinhwin\\lab06\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\laptrinhwin\\lab06\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\laptrinhwin\\lab06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T06:39:03.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhapLieu.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab06VLE\\Lab06VLE\\NhapLieu.cs",
+              "RelativeDocumentMoniker": "Lab06VLE\\NhapLieu.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab06VLE\\Lab06VLE\\NhapLieu.cs",
+              "RelativeToolTip": "Lab06VLE\\NhapLieu.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAWwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T06:38:06.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmXuat.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab06VLE\\Lab06VLE\\frmXuat.cs",
+              "RelativeDocumentMoniker": "Lab06VLE\\frmXuat.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab06VLE\\Lab06VLE\\frmXuat.cs",
+              "RelativeToolTip": "Lab06VLE\\frmXuat.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T06:36:10.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmXuat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab06VLE\\Lab06VLE\\frmXuat.cs",
+              "RelativeDocumentMoniker": "Lab06VLE\\frmXuat.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab06VLE\\Lab06VLE\\frmXuat.cs [Design]",
+              "RelativeToolTip": "Lab06VLE\\frmXuat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T06:35:54.736Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhapLieu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab06VLE\\Lab06VLE\\NhapLieu.cs",
+              "RelativeDocumentMoniker": "Lab06VLE\\NhapLieu.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab06VLE\\Lab06VLE\\NhapLieu.cs [Design]",
+              "RelativeToolTip": "Lab06VLE\\NhapLieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T06:25:38.566Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
